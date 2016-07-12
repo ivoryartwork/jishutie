@@ -1,2 +1,5 @@
 rootProject.name = 'jishutie'
+include 'jishutie-crawler'
+include 'jishutie-web'
+include 'jishutie-app'
 
